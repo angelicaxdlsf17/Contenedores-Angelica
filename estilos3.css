@@ -1,0 +1,45 @@
+*{
+    margin: 0px;
+}
+
+.general{
+    background-image:url("SM1.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    height:100vh;
+    display: flex;
+    align-items: center;
+} 
+
+.principal{
+    /* border: 5px solid red;*/
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+    color:white;
+    text-align:center;
+}
+
+.principal_titulo{
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.principal_parrafo{
+    font-size: 20px;
+}
+
+.principal_boton{
+    width:150px;
+    height:30px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color:rgb(152, 236, 251);
+    color:white;
+    font-size: 15px;
+    font-family: "bebas neue";
+    border: none;
+    border-radius: 5%;
+
+
+}
